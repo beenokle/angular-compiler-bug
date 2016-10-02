@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "pretty": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "allowSyntheticDefaultImports": true,
+    "preserveConstEnums": true,
+    "moduleResolution": "node",
+    "noEmitHelpers": true
+  },
+  "angularCompilerOptions": {
+  },
+  "files": [
+    "src/app.module.ts"
+  ]
+}
