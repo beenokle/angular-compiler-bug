@@ -38,3 +38,5 @@ import * as import5 from './bad/inner/bad.resolver';
 ...
 import * as import9 from '../bad.resolver'; // wrong entry
 ```
+
+Generated `bad.feature.module.ngfactory.ts` also contains wrong entry
